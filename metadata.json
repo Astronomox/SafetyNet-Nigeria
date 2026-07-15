@@ -1,0 +1,9 @@
+{
+  "name": "SafetyNet Nigeria",
+  "description": "AI-powered disaster response platform connecting citizens, responders, and government agencies for real-time crisis management.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}

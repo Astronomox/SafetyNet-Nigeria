@@ -25,7 +25,6 @@ dist-ssr
 
 
 # In .gitignore, add these lines:
-*.json
 *.env
 # Specifically for your file:
 apt-signifier-481301-d6-c712f98c00ed.json
